@@ -23,6 +23,3 @@ Fullstack Dev
 </p>
 
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/golansky"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
