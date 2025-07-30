@@ -26,6 +26,4 @@ I specialize in building dynamic and responsive web applications using a broad r
 
 ### 💻 Let’s connect
 
-Feel free to explore my repositories or reach out if you have any questions or collaborations in mind.
-
 ---
